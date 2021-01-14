@@ -10,7 +10,7 @@
             <ul>
               <li><a href="#">Inicial</a></li>
               <li><a href="#">Quem somos</a></li>
-              <li><a href="#">Contato</a></li>
+              <li><a href="#">https://api.whatsapp.com/send?phone=5511988888888&text=Contato%20WhatsApp</a></li>
             </ul>
         </nav>
         <section id="example">
